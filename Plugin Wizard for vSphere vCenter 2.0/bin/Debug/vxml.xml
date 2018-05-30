@@ -1,0 +1,10 @@
+<scriptConfiguration  version="4.0">
+<key>com.vmware.pubs.sdkteam</key>
+<description>Veeam's web site</description>
+<vendor>Veeam</vendor>
+<multiVCsupported>false</multiVCsupported>
+<extension parent="InventoryView.Datacenter">
+<title locale="en">Veeam</title>
+<url  display="window">http://www.veeam.com</url>
+</extension>
+</scriptConfiguration>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<jobs>
+  <Policy>
+    <host>192.168.1.90</host>
+    <user>administrator</user>
+  </Policy>
+</jobs>

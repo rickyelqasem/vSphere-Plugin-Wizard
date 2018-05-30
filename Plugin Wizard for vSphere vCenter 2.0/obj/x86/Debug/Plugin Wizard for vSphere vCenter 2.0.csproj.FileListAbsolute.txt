@@ -1,0 +1,28 @@
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\Plugin Wizard for vSphere vCenter 2.0.exe
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\Plugin Wizard for vSphere vCenter 2.0.pdb
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.Form1.resources
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.Properties.Resources.resources
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin Wizard for vSphere vCenter 2.0.exe
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin Wizard for vSphere vCenter 2.0.pdb
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.About_and_Help.resources
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.RegPlugin.resources
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.RemovePlugin.resources
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\VimService2005.dll
+S:\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\VimService2005.XmlSerializers.dll
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin Wizard for vSphere vCenter 2.0.exe
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin Wizard for vSphere vCenter 2.0.pdb
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\Plugin Wizard for vSphere vCenter 2.0.exe
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\Plugin Wizard for vSphere vCenter 2.0.pdb
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\VimService2005.dll
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\bin\Debug\VimService2005.XmlSerializers.dll
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.About_and_Help.resources
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.Form1.resources
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.Properties.Resources.resources
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.RegPlugin.resources
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\Plugin_Wizard_for_vSphere_vCenter_2._0.RemovePlugin.resources
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SyncFolder\devwork\vSphere Plugin Wizard\Plugin Wizard for vSphere vCenter 2.0\Plugin Wizard for vSphere vCenter 2.0\obj\x86\Debug\GenerateResource.write.1.tlog

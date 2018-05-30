@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+  <PluginList Position="Liquidware Hub" />
+
+  <PluginList Position="Netgear ReadyNAS" />
+
+  <PluginList Position="VMware View Admin" />
+
+</root>
